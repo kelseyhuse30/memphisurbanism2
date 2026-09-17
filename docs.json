@@ -37,7 +37,8 @@
           "untitled-page-4",
           "leading-pedestrian-interval-lpi",
           "speed-humps"
-        ]
+        ],
+        "icon": "walking"
       },
       {
         "group": "Biking",
@@ -47,7 +48,8 @@
           "untitled-page-2",
           "bike-groups-and-events",
           "bike-buses"
-        ]
+        ],
+        "icon": "bicycle"
       },
       {
         "group": "Transit",
@@ -56,17 +58,20 @@
           "transit-alternatives",
           "mata-timeline",
           "transit-groups-and-events"
-        ]
+        ],
+        "icon": "bus-alt"
       },
       {
         "group": "Housing",
         "pages": [
           "housing-groups-and-events"
-        ]
+        ],
+        "icon": "house"
       },
       {
         "group": "Politics & Govt",
-        "pages": []
+        "pages": [],
+        "icon": "vote-yea"
       }
     ],
     "global": {
@@ -98,5 +103,8 @@
       "bluesky": "https://bsky.app/profile/kelseyhuse.com"
     }
   },
-  "description": "Memphis Urbanism is a solo project ran by Kelsey Huse to promote walking, biking, and public transit in Memphis, TN."
+  "description": "Memphis Urbanism is a solo project ran by Kelsey Huse to promote walking, biking, and public transit in Memphis, TN.",
+  "interaction": {
+    "drilldown": true
+  }
 }
