@@ -13,14 +13,28 @@
       {
         "group": "About",
         "pages": [
-          "index"
+          "index",
+          "membership",
+          "services",
+          "my-gear",
+          "press-toolkit",
+          "social-media-toolkit"
+        ]
+      },
+      {
+        "group": "Campaigns",
+        "pages": [
+          "crosstown-concourse"
         ]
       },
       {
         "group": "Walking",
         "pages": [
           "walking",
-          "untitled-page-3"
+          "untitled-page-3",
+          "untitled-page-4",
+          "leading-pedestrian-interval-lpi",
+          "speed-humps"
         ]
       },
       {
@@ -28,13 +42,18 @@
         "pages": [
           "biking",
           "untitled-page",
-          "untitled-page-2"
+          "untitled-page-2",
+          "bike-groups-and-events",
+          "bike-buses"
         ]
       },
       {
         "group": "Transit",
         "pages": [
-          "transit"
+          "transit",
+          "transit-alternatives",
+          "mata-timeline",
+          "transit-groups-and-events"
         ]
       }
     ],
