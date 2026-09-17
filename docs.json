@@ -19,13 +19,16 @@
       {
         "group": "Walking",
         "pages": [
-          "walking"
+          "walking",
+          "untitled-page-3"
         ]
       },
       {
         "group": "Biking",
         "pages": [
-          "biking"
+          "biking",
+          "untitled-page",
+          "untitled-page-2"
         ]
       },
       {
