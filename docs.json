@@ -106,5 +106,10 @@
   "description": "Memphis Urbanism is a solo project ran by Kelsey Huse to promote walking, biking, and public transit in Memphis, TN.",
   "interaction": {
     "drilldown": true
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-K1DL0X6Q62"
+    }
   }
 }
