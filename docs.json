@@ -11,27 +11,27 @@
   "navigation": {
     "pages": [
       {
-        "group": "Getting Started",
+        "group": "About",
         "pages": [
-          "index",
-          {
-            "group": "Walking",
-            "pages": [
-              "walking"
-            ]
-          },
-          {
-            "group": "Biking",
-            "pages": [
-              "biking"
-            ]
-          },
-          {
-            "group": "Transit",
-            "pages": [
-              "transit"
-            ]
-          }
+          "index"
+        ]
+      },
+      {
+        "group": "Walking",
+        "pages": [
+          "walking"
+        ]
+      },
+      {
+        "group": "Biking",
+        "pages": [
+          "biking"
+        ]
+      },
+      {
+        "group": "Transit",
+        "pages": [
+          "transit"
         ]
       }
     ],
