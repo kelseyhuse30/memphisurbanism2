@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Memphis Urbanism",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -41,13 +41,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Resources",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://blog.memphisurbanism.com",
           "icon": "newspaper"
         }
       ]
@@ -61,7 +61,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:kelsey@memphisurbanism.com"
       }
     ],
     "primary": {
@@ -84,9 +84,11 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://linkedin.com/company/mintlify",
+      "instagram": "https://instagram.com/memphisurbanism",
+      "youtube": "https://youtube.com/memphis_urbanism",
+      "bluesky": "https://bsky.app/profile/kelseyhuse.com"
     }
-  }
+  },
+  "description": "Memphis Urbanism is a solo project ran by Kelsey Huse to promote walking, biking, and public transit in Memphis, TN."
 }
