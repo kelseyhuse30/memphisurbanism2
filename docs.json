@@ -72,11 +72,6 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Resources",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Blog",
           "href": "https://blog.memphisurbanism.com",
           "icon": "newspaper"
