@@ -17,6 +17,7 @@
           "membership",
           "services",
           "my-gear",
+          "community-calendar",
           "press-toolkit",
           "social-media-toolkit"
         ]
@@ -24,7 +25,8 @@
       {
         "group": "Campaigns",
         "pages": [
-          "crosstown-concourse"
+          "about-my-campaigns",
+          "crosstown"
         ]
       },
       {
@@ -55,6 +57,16 @@
           "mata-timeline",
           "transit-groups-and-events"
         ]
+      },
+      {
+        "group": "Housing",
+        "pages": [
+          "housing-groups-and-events"
+        ]
+      },
+      {
+        "group": "Politics & Govt",
+        "pages": []
       }
     ],
     "global": {
