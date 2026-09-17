@@ -14,7 +14,24 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "quickstart"
+          {
+            "group": "Walking",
+            "pages": [
+              "walking"
+            ]
+          },
+          {
+            "group": "Biking",
+            "pages": [
+              "biking"
+            ]
+          },
+          {
+            "group": "Transit",
+            "pages": [
+              "transit"
+            ]
+          }
         ]
       }
     ],
