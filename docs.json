@@ -45,7 +45,7 @@
         "pages": [
           "biking",
           "untitled-page",
-          "untitled-page-2",
+          "bike-shops",
           "bike-groups-and-events",
           "bike-buses"
         ],
@@ -57,7 +57,7 @@
           "transit",
           "transit-alternatives",
           "mata-timeline",
-          "transit-groups-and-events"
+          "transit-groups"
         ],
         "icon": "bus-alt"
       },
