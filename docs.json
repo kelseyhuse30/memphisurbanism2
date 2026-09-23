@@ -82,8 +82,7 @@
         {
           "anchor": "Blog",
           "href": "https://blog.memphisurbanism.com",
-          "icon": "newspaper",
-          "color": "#37324C"
+          "icon": "newspaper"
         }
       ]
     }
@@ -133,6 +132,6 @@
     }
   },
   "icons": {
-    "library": "lucide"
+    "library": "fontawesome"
   }
 }
