@@ -120,5 +120,15 @@
       "light": "#C98133",
       "dark": "#474C32"
     }
+  },
+  "fonts": {
+    "heading": {
+      "family": "Merriweather",
+      "weight": 700
+    },
+    "body": {
+      "family": "Poppins",
+      "weight": 400
+    }
   }
 }
