@@ -82,7 +82,8 @@
         {
           "anchor": "Blog",
           "href": "https://blog.memphisurbanism.com",
-          "icon": "newspaper"
+          "icon": "newspaper",
+          "color": "#37324C"
         }
       ]
     }
