@@ -130,5 +130,8 @@
       "family": "Poppins",
       "weight": 400
     }
+  },
+  "icons": {
+    "library": "lucide"
   }
 }
