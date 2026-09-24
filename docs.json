@@ -124,11 +124,11 @@
   "fonts": {
     "heading": {
       "family": "Montserrat",
-      "weight": 700
+      "weight": 800
     },
     "body": {
       "family": "Poppins",
-      "weight": 400
+      "weight": 500
     }
   },
   "icons": {
