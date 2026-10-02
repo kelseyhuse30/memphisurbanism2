@@ -22,7 +22,8 @@
           "my-gear",
           "events",
           "press-toolkit",
-          "social-media-toolkit"
+          "social-media-toolkit",
+          "actions"
         ]
       },
       {
@@ -77,6 +78,14 @@
           "election-nov26"
         ],
         "icon": "vote-yea"
+      },
+      {
+        "group": "Misc.",
+        "pages": [
+          "memphis-planning-documents",
+          "research-tools",
+          "relevant-newsletters-and-accounts-to-follow"
+        ]
       }
     ],
     "global": {
