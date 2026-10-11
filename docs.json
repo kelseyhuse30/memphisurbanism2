@@ -136,11 +136,11 @@
   },
   "fonts": {
     "heading": {
-      "family": "Montserrat",
+      "family": "Bricolage Grotesque",
       "weight": 800
     },
     "body": {
-      "family": "Poppins",
+      "family": "Bricolage Grotesque",
       "weight": 500
     }
   },
