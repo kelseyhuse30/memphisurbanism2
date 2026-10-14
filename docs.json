@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Memphis Urbanism",
   "colors": {
-    "primary": "#474C32",
-    "light": "#5C6340",
-    "dark": "#282B1C"
+    "primary": "#F7A54B",
+    "light": "#C3E870",
+    "dark": "#163B4C"
   },
   "favicon": {
     "light": "/images/Favicon-Light.png",
@@ -130,8 +130,8 @@
   },
   "background": {
     "color": {
-      "light": "#EBCEAF",
-      "dark": "#474C32"
+      "light": "#FFFFFF",
+      "dark": "#163B4C"
     }
   },
   "fonts": {
