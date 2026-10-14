@@ -8,8 +8,8 @@
     "dark": "#163B4C"
   },
   "favicon": {
-    "light": "/images/Favicon-Light.png",
-    "dark": "/images/Favicon-Dark.png"
+    "light": "/images/MU-logo-mark-midnight.png",
+    "dark": "/images/MU-logo-mark-R.png"
   },
   "navigation": {
     "pages": [
@@ -101,8 +101,8 @@
     }
   },
   "logo": {
-    "light": "/images/Logo-Light.png",
-    "dark": "/images/Logo-Dark.png"
+    "light": "/images/MU-logo-hori-FC.jpg",
+    "dark": "/images/MU-logo-hori-midnight.jpg"
   },
   "navbar": {
     "primary": {
