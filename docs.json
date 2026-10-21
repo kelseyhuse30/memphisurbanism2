@@ -41,10 +41,11 @@
         "group": "Walking",
         "pages": [
           "walking",
-          "untitled-page-3",
+          "sidewalks",
           "untitled-page-4",
           "lpi",
-          "speed-humps"
+          "speed-humps",
+          "crosswalks"
         ],
         "icon": "walking"
       },
